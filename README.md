@@ -4,11 +4,11 @@
 **DidiKuku/DidiKuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
-<br />
 
-## My name is Svetlana. I'm a Jr Data Scientist.
 
-<br />
+**### My name is Svetlana. I'm a Jr Data Scientist.**
+
+
 
 Here are some ideas to get you started:
 

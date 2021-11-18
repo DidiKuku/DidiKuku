@@ -6,7 +6,7 @@
  
 
 
-### My name is Svetlana. I'm a Jr Data Scientist.
+**My name is Svetlana. I'm a Jr Data Scientist.
 
 
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**My name is Svetlana. I'm a Jr Data Scientist.**
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->

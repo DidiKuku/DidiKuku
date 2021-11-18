@@ -6,7 +6,7 @@
  
 
 
-**### My name is Svetlana. I'm a Jr Data Scientist.**
+### My name is Svetlana. I'm a Jr Data Scientist.
 
 
 

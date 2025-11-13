@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**My name is Svetlana. 
+My name is Svetlana. 
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
